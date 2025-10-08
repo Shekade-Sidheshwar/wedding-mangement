@@ -103,23 +103,24 @@ CREATE TABLE `feedback` (
 --
 
 INSERT INTO `feedback` (`id`, `name`, `email`, `rating`, `comments`, `created_at`) VALUES
-(1, 'ssssss', 'ssssss@gmail.com', 5, 'efefwfff', '2024-09-24 10:34:02'),
-(2, 'ssssss', 'ssssss@gmail.com', 5, 'ssssssss', '2024-09-24 10:34:51'),
-(3, 'ssssss', 'ssssss@gmail.com', 5, 'dcddcdcdc', '2024-09-24 10:35:50'),
-(8, 'rani', 'rani@gmail.com', 5, 'dcscscscscsc', '2024-09-24 10:56:42'),
-(9, 'rrrrr', 'rrrr@gmail.com', 5, 'dfdfdfff', '2024-09-24 11:05:13'),
-(10, 'rrrrr', 'rrrr@gmail.com', 5, 'sdsdsdsdsd', '2024-09-24 11:07:08'),
-(11, 'rrrrr', 'rrrr@gmail.com', 5, 'dsdsdsdsd', '2024-09-24 11:08:15'),
-(12, 'mmmm', 'mmm@gmail.com', 5, 'dcddcdc', '2024-09-24 11:11:14'),
-(13, 'mmmm', 'mmm@gmail.com', 5, 'dcddcdc', '2024-09-24 11:11:49'),
-(14, 'mmmmm', 'mmmm@gmail.com', 5, 'ddcdcdcdc', '2024-09-24 11:12:51'),
-(15, 'mmmmm', 'mmmm@gmail.com', 5, 'ddcdcdcdc', '2024-09-24 11:15:39'),
-(16, 'kkkkk', 'kkk@gmail.com', 5, 'sanckabbkfbk ', '2024-09-24 11:16:33'),
-(17, 'kk', 'k@gmail.com', 5, 'scmsbcjvcj', '2024-09-24 11:17:29'),
-(18, 'll', 'll@gmail.com', 5, 'c skbbvkv vkvjkjbyusd', '2024-09-24 11:18:57'),
-(19, 'i am don', 'Don@gmail.com', 5, 'very nice wedding', '2024-09-27 14:16:20'),
-(20, 'i am don', 'Don@gmail.com', 5, 'very nice wedding', '2024-09-27 14:17:45'),
-(21, 'me', 'me@gmail.com', 4, 'scssc', '2024-09-27 14:31:27');
+(1, 'Aarav Sharma', 'aarav.sharma@gmail.com', 5, 'efefwfff', '2024-09-24 10:34:02'),
+(2, 'Ananya Verma', 'ananya.verma@gmail.com', 5, 'ssssssss', '2024-09-24 10:34:51'),
+(3, 'Rohit Singh', 'rohit.singh@gmail.com', 5, 'dcddcdcdc', '2024-09-24 10:35:50'),
+(8, 'Rani Patel', 'rani.patel@gmail.com', 5, 'dcscscscscsc', '2024-09-24 10:56:42'),
+(9, 'Rahul Gupta', 'rahul.gupta@gmail.com', 5, 'dfdfdfff', '2024-09-24 11:05:13'),
+(10, 'Sneha Kapoor', 'sneha.kapoor@gmail.com', 5, 'sdsdsdsdsd', '2024-09-24 11:07:08'),
+(11, 'Karan Mehta', 'karan.mehta@gmail.com', 5, 'dsdsdsdsd', '2024-09-24 11:08:15'),
+(12, 'Maya Joshi', 'maya.joshi@gmail.com', 5, 'dcddcdc', '2024-09-24 11:11:14'),
+(13, 'Aditi Rao', 'aditi.rao@gmail.com', 5, 'dcddcdc', '2024-09-24 11:11:49'),
+(14, 'Manish Kumar', 'manish.kumar@gmail.com', 5, 'ddcdcdcdc', '2024-09-24 11:12:51'),
+(15, 'Neha Singh', 'neha.singh@gmail.com', 5, 'ddcdcdcdc', '2024-09-24 11:15:39'),
+(16, 'Kriti Sharma', 'kriti.sharma@gmail.com', 5, 'sanckabbkfbk ', '2024-09-24 11:16:33'),
+(17, 'Kunal Yadav', 'kunal.yadav@gmail.com', 5, 'scmsbcjvcj', '2024-09-24 11:17:29'),
+(18, 'Lalit Choudhary', 'lalit.choudhary@gmail.com', 5, 'c skbbvkv vkvjkjbyusd', '2024-09-24 11:18:57'),
+(19, 'Don Joseph', 'don.joseph@gmail.com', 5, 'very nice wedding', '2024-09-27 14:16:20'),
+(20, 'Anita Thomas', 'anita.thomas@gmail.com', 5, 'very nice wedding', '2024-09-27 14:17:45'),
+(21, 'Meera Iyer', 'meera.iyer@gmail.com', 4, 'scssc', '2024-09-27 14:31:27');
+
 
 -- --------------------------------------------------------
 
